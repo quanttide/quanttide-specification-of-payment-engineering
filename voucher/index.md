@@ -33,13 +33,4 @@ stateDiagram-v2
 - 每张券可回溯到发行来源与核销标的。
 - 代金券在结算中的先后由计费规则显式给出，不由券自身决定。
 
-## 主题
 
-- [发行](issuance.md) — 创建代金券、记录发行来源并形成负债
-- [持有](holding.md) — 券的归属、面值、适用范围与有效期
-- [核销](redemption.md) — 抵减应付金额、不找零与剩余结算
-- [过期](expiration.md) — 超过有效期后的终态
-
-代金券规范的未决事项见 roadmap 仓库 `data/roadmap/specification/open-issues.md`。
-
-代金券的业务洞察见 insight 仓库 `data/insight/voucher/index.md`。
