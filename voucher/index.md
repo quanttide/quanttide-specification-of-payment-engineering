@@ -39,6 +39,7 @@ stateDiagram-v2
 - [持有](holding.md) — 券的归属、面值、适用范围与有效期
 - [核销](redemption.md) — 抵减应付金额、不找零与剩余结算
 - [过期](expiration.md) — 超过有效期后的终态
-- [未决事项](open-issues.md) — 结算顺序、发行治理与历史结算等待定问题
+
+代金券规范的未决事项见 roadmap 仓库 `data/roadmap/specification/open-issues.md`。
 
 代金券的业务洞察见 insight 仓库 `data/insight/voucher/index.md`。

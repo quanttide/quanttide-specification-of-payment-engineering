@@ -10,7 +10,7 @@
 
 ## 文档
 
-- [voucher/index.md](voucher/index.md) — 代金券规范：按发行、持有、核销、过期四个阶段组织，附概念、总则与未决事项
+- [voucher/index.md](voucher/index.md) — 代金券规范：按发行、持有、核销、过期四个阶段组织，附概念与总则
 
 ## 许可
 
