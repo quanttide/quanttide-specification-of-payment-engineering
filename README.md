@@ -1,6 +1,4 @@
-# quanttide-specification-of-payment-engineering
-
-量潮支付工程标准 — 领域的规范与标准集合。
+# 量潮支付工程规格
 
 ## 概述
 
@@ -10,7 +8,7 @@
 
 ## 文档
 
-- [voucher/index.md](voucher/index.md) — 代金券规范：按发行、持有、核销、过期四个阶段组织，附概念与总则
+- [voucher/index.md](voucher/index.md) — 代金券规范：按发行、持有、核销、过期四个阶段组织，附概念与基本约束
 
 ## 许可
 
